@@ -80,4 +80,178 @@ Nos gramados de Minas Gerais
 Temos páginas heroicas e imortais
 Cruzeiro, Cruzeiro querido
 Tão combatido, jamais vencido!
+
+Botafogo, Botafogo
+Campeão desde 1910
+Foste herói em cada jogo
+Botafogo, por isso é que tu és
+E hás de ser nosso imenso prazer
+Tradições aos milhões tens também
+Tu és o glorioso, não podes perder
+Perder pra ninguém
+
+Em outros esportes, tua fibra está presente
+Honrando as cores do Brasil de nossa gente
+Na estrada dos louros, um facho de luz
+Tua estrela solitária te conduz
+
+Botafogo, Botafogo
+Campeão desde 1910
+Foste herói em cada jogo
+Botafogo, por isso é que tu és
+E hás de ser nosso imenso prazer
+Tradições aos milhões tens também
+Tu és o glorioso, não podes perder
+Perder pra ninguém
+
+Em outros esportes, tua fibra está presente
+Honrando as cores do Brasil de nossa gente
+Na estrada dos louros, um facho de luz
+Tua estrela solitária te conduz
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Botafogo, Botafogo
+Campeão desde 1910
+Foste herói em cada jogo
+Botafogo, por isso é que tu és
+E hás de ser nosso imenso prazer
+Tradições aos milhões tens também
+Tu és o glorioso, não podes perder
+Perder pra ninguém
+
+Em outros esportes, tua fibra está presente
+Honrando as cores do Brasil de nossa gente
+Na estrada dos louros, um facho de luz
+Tua estrela solitária te conduz
+
+Botafogo, Botafogo
+Campeão desde 1910
+Foste herói em cada jogo
+Botafogo, por isso é que tu és
+E hás de ser nosso imenso prazer
+Tradições aos milhões tens também
+Tu és o glorioso, não podes perder
+Perder pra ninguém
+
+Em outros esportes, tua fibra está presente
+Honrando as cores do Brasil de nossa gente
+Na estrada dos louros, um facho de luz
+Tua estrela solitária te conduz
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Botafogo, Botafogo
+Campeão desde 1910
+Foste herói em cada jogo
+Botafogo, por isso é que tu és
+E hás de ser nosso imenso prazer
+Tradições aos milhões tens também
+Tu és o glorioso, não podes perder
+Perder pra ninguém
+
+Em outros esportes, tua fibra está presente
+Honrando as cores do Brasil de nossa gente
+Na estrada dos louros, um facho de luz
+Tua estrela solitária te conduz
+
+Botafogo, Botafogo
+Campeão desde 1910
+Foste herói em cada jogo
+Botafogo, por isso é que tu és
+E hás de ser nosso imenso prazer
+Tradições aos milhões tens também
+Tu és o glorioso, não podes perder
+Perder pra ninguém
+
+Em outros esportes, tua fibra está presente
+Honrando as cores do Brasil de nossa gente
+Na estrada dos louros, um facho de luz
+Tua estrela solitária te conduz
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
+
+Existe um grande clube na cidade
+Que mora dentro do meu coração
+Eu vivo cheio de vaidade
+Pois na realidade é um grande campeão
+
+Nos gramados de Minas Gerais
+Temos páginas heroicas e imortais
+Cruzeiro, Cruzeiro querido
+Tão combatido, jamais vencido!
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
